@@ -1,4 +1,4 @@
-# sb1-btvsryzl
+# EmpowrAI
 
 This project was created and pushed to GitHub using [Bolt to GitHub](https://github.com/mamertofabian/bolt-to-github) Chrome Extension.
 
